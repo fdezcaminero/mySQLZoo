@@ -1,0 +1,1 @@
+SELECT name, population FROM world WHERE name = 'France' OR name = 'Germany' OR name = 'Italy';
